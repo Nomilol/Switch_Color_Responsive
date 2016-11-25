@@ -1,0 +1,21 @@
+@media screen and (max-width:300px){
+	
+	.test{
+		background-color: blue;
+	}
+}
+
+
+@media screen and (min-width: 301px) 
+and (max-width: 600px){
+	.test{
+		background-color: red;
+	}
+}
+
+@media screen and (min-width:601px){
+	.test{
+		background-color: green;
+	}
+}
+
